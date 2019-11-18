@@ -1,0 +1,20 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "name": "Model S",
+      "image": "https://www.bcee.lu/fileadmin/_processed_/9/e/csm_M3_midnight_aero_angle02_01_cb244393ce.png"
+    },
+    {
+      "id": 2,
+      "name": "Model X",
+      "image": "https://www.newcartestdrive.com/wp-content/uploads/2018/10/2018-model3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Model S",
+      "image": "https://compote.slate.com/images/ecef77e3-56be-44ad-a8fb-5673d511664f.jpeg?width=780&height=520&rect=1560x1040&offset=0x0"
+    }
+  ],
+  "favorites": []
+}
